@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{1B97FCE5-88A7-ABDC-EE27-BBEF75FC826F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/IPG_MAS1/Scripts/Nivel3/GridManager.cs">
+    <Files>
+      <File FileName="Assets/IPG_MAS1/Scripts/VerificarNivel.cs" Line="1" Column="1" />
+      <File FileName="Assets/IPG_MAS1/Scripts/ManagerEscenas.cs" Line="1" Column="1" />
+      <File FileName="Assets/IPG_MAS1/Scripts/GameManager.cs" Line="636" Column="71" />
+      <File FileName="Assets/IPG_MAS1/Scripts/Nivel3/ControllerObjetoDrag.cs" Line="129" Column="57" />
+      <File FileName="Assets/IPG_MAS1/Scripts/Nivel3/GridManager.cs" Line="93" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IPG_MAS1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="IPG_MAS1" expanded="True">
+                <Node name="Resources" expanded="True" />
+                <Node name="Scripts" expanded="True">
+                  <Node name="Nivel3" expanded="True">
+                    <Node name="GridManager.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="IPG_MAS1" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f165dd88-23d4-494a-a1b8-204e9a3b29b3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

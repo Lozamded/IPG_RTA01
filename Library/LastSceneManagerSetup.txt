@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/IPG_RTA1/Scenes/IPG_RTA1_Nivel1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
